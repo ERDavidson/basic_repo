@@ -1,0 +1,10 @@
+*{
+	background-color: black;
+	color: rgb(150,150,150);
+}
+img{
+	display: block;
+	padding:1px;
+	border:1px solid gray;
+	background-color: rgb(200,200,200);
+}
